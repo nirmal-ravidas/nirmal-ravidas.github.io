@@ -6,11 +6,5 @@
     "background_color":"#000000",
     "theme_color":"black",
     "scope": ".",
-    "description":"Hi, I'm Nirmal Ravidas.",
-    {
-    "src":"assets/images/icon-512x512.png",
-    "sizes":"512x512",
-    "type":"image/png"
-    }
-  ]
+    "description":"Hi, I'm Nirmal Ravidas."
 }
