@@ -1,0 +1,15 @@
+{
+    "short_name": "Nirmal Ravidas",
+    "name": "Hi, I'm Nirmal Ravidas",
+    "icons": [
+      {
+        "src": "/assets/images/logo.ico",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/images/logo.ico",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html"
+  }
