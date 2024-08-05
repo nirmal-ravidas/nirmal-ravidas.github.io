@@ -750,11 +750,8 @@ main {
 
 .language-and-tool-item img {
   width: 50px;
-  filter: grayscale(1);
   transition: var(--transition-1);
 }
-
-.language-and-tool-item img:hover { filter: grayscale(0); }
 
 
 
